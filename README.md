@@ -24,9 +24,6 @@ Components:
 - **Output**: Visualize results via HDMI display or a web-based interface
 
 
-
-# Steps for the Project
-
 ## Phase 1: Research and Planning
 
 1. Understand PYNQ-Z2:
